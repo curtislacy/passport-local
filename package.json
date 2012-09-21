@@ -1,14 +1,15 @@
 {
-  "name": "passport-local",
+  "name": "passport-local-with-redirect",
   "version": "0.1.6",
   "description": "Local username and password authentication strategy for Passport.",
   "author": { "name": "Jared Hanson", "email": "jaredhanson@gmail.com", "url": "http://www.jaredhanson.net/" },
+  "author": { "name": "Curtis Lacy", "email": "curtis.lacy@ldengine.com" },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-local.git"
+    "url": "git://github.com/curtislacy/passport-local.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-local/issues"
+    "url": "http://github.com/curtislacy/passport-local/issues"
   },
   "main": "./lib/passport-local",
   "dependencies": {
